@@ -50,10 +50,6 @@ A window will appear with the To-Do List application interface. You can:
 - **No GUI Window Appears**: Ensure you have Python 3.x installed and `tkinter` is properly configured.
 - **Error Messages**: Check that the file `todo_list_gui.py` is executed correctly and that Python is installed correctly.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - `tkinter` library for providing the GUI functionality.
