@@ -61,5 +61,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more information, visit [Project Repository](https://github.com/veendysuseno/todo_list_gui-tkinter).
+For more information, visit [Project Repository](https://github.com/veendysuseno/todo_list_gui-tkinter). <br/>
 "# To-do_List_GUI-tkinter"
