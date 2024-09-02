@@ -57,5 +57,5 @@ A window will appear with the To-Do List application interface. You can:
 
 ---
 
-For more information, visit [Project Repository](https://github.com/veendysuseno/todo_list_gui-tkinter). <br/>
+For more information, visit [Project Repository](https://github.com/veendysuseno/To-do_List_GUI-tkinter). <br/>
 "# To-do_List_GUI-tkinter"
