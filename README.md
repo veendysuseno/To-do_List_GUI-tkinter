@@ -14,25 +14,25 @@ To run this application, you need Python 3.x installed on your system. `tkinter`
 
 1. Clone the repository:
 
-    ```sh
-    git clone https://github.com/your-username/todo_list_gui.git
-    cd todo_list_gui
-    ```
+   ```sh
+   git clone https://github.com/your-username/todo_list_gui.git
+   cd todo_list_gui
+   ```
 
 2. (Optional) Create a virtual environment:
 
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
 
 ## Running the Application
 
 Run the application using the following command:
 
-    ```sh
-    python todo_list_gui.py
-    ```
+```sh
+python todo_list_gui.py
+```
 
 A window will appear with the To-Do List application interface. You can:
 
@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 For more information, visit [Project Repository](https://github.com/veendysuseno/todo_list_gui-tkinter).
-"# To-do_List_GUI-tkinter" 
+"# To-do_List_GUI-tkinter"
